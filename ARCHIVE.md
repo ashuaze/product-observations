@@ -24,7 +24,7 @@
 
 ## 每次同步
 
-1. 读取目标仓库的当前分支、HEAD、本期期号目录及索引。只处理本期和索引生成区。
+1. 读取目标仓库的当前分支、HEAD、本期期号目录及索引。只处理本期、索引生成区及对应的文件指纹，保留其他内容。
 2. 生成文件后执行 `python3 scripts/check_archive.py --write-index`。失败时不提交，保留已生成稿件。
 3. 对比文件内容；完全相同则跳过提交，同日重跑不新建一期。
 4. 将本期文件与总索引作为同一提交；更新分支时校验预期 HEAD。不要强制推送。
@@ -32,7 +32,7 @@
 6. 提交后检查 commit 的文件列表，并读取远端关键文件核对。只有取得可验证的 commit 链接才报告同步成功。
 7. 同步失败重试复用原期号、slug 和生成材料；不重复生成无关内容。
 
-归档目标为 [ashuaze/product-observations](https://github.com/ashuaze/product-observations)，默认分支为 `main`。首次试跑仅迁移 P26；每日定时任务的自动同步尚未接入。
+归档目标为 [ashuaze/product-observations](https://github.com/ashuaze/product-observations)，默认分支为 `main`。2026-11-02 已为现有「X 产品观察选题」任务配置自动归档：每日北京时间 12:30 生成中英文材料、检查后同步，并反馈真实提交链接。单次执行是否同步成功，以该次回读核对结果为准。
 
 ## 检查工具的范围
 
