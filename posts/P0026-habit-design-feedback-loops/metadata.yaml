@@ -1,0 +1,43 @@
+schema_version: 1
+id: P0026
+legacy_id: P26
+slug: habit-design-feedback-loops
+title_zh: 习惯设计的四个杠杆：从增长功能到反馈回路
+title_en: 'Four levers of habit design: from growth features to feedback loops'
+date: '2026-11-02'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: habit-design
+  title: 习惯设计的收益与副作用
+  cycle_start: P0020
+  cycle_end: P0026
+content_type: synthesis
+review_status: pending
+source:
+  filename: P26-habit-design-feedback-loops-2026-11-02.md
+  sha256: 4447a5872cda39e48d9748be11010001c51ade6c1932fdd93a4d47992238f138
+  checked_at: '2026-11-02'
+  url: https://chatgpt.com/library?file_id=libfile_10fcbff6bec88191b22da5e2750f4b73&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 6
+    body_sha256: 38649759c4d2b9c4fcd16eb9afa38800b49980a974ea6768ebd4d11be47809bc
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 6
+    body_sha256: 41e534dff102546df2cd4c5b7e9c96c474ee3dd01fa327ec2fac177154130a0e
+    published_at: null
+    published_url: null
