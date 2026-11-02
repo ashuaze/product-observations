@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0015
+legacy_id: P15
+slug: zoom-google-meet-mid-session-paywall
+title_zh: Zoom vs Google Meet：免费边界为什么会在会议中途出现？
+title_en: 'Zoom and Google Meet: when the limit interrupts the meeting'
+date: '2026-10-22'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: free-paid-boundaries
+  title: 免费与付费边界
+  cycle_start: P0013
+  cycle_end: P0019
+content_type: analysis
+review_status: pending
+source:
+  filename: P15-zoom-google-meet-mid-session-paywall-2026-10-22.md
+  sha256: 695c97e32d0ad94ba74c3b8beac32e2df4e4f5bc552a98754c028b5c56ebf711
+  checked_at: '2026-10-22'
+  url: https://chatgpt.com/library?file_id=libfile_ad1bdbe10d008191b2e0dbd7db81cf18&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 6d91a9b4f7a85120be3a434849a11ecf3547b284f1f8257a3c8695bb2fc8c50f
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_with_thread_numbers
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 5
+    body_sha256: 4141d8c59aa7b422e594fcd6b22c1e0025e50597bd46e4cf8712cabf8eccdb24
+    published_at: null
+    published_url: null
+    source_body_sha256: b55344aa30d0baf68a536929647a454793c5ee7a5dcae5a38572e1f3066bfddd
+    normalization:
+    - 仅补齐正文串帖序号；原英文词句和段落保持原样。

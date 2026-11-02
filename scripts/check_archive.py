@@ -7,7 +7,8 @@ import hashlib
 import json
 import re
 import sys
-import unicodedata
+import subprocess
+from functools import lru_cache
 from pathlib import Path
 
 import yaml
@@ -15,7 +16,6 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 START, END = '<!-- ARCHIVE:START -->', '<!-- ARCHIVE:END -->'
 REQUIRED = ('README.md', 'research.md', 'publish-zh.md', 'publish-en.md', 'metadata.yaml')
-URL = re.compile(r'https?://[A-Za-z0-9./_%?=&:#~+\-]+')
 
 
 def ensure(condition: bool, message: str) -> None:
@@ -38,27 +38,18 @@ def split_posts(text: str) -> list[str]:
     return posts
 
 
+@lru_cache(maxsize=4096)
 def weighted_length(post: str) -> int:
-    normalized = unicodedata.normalize('NFC', post)
-    # Deliberately narrow supported inputs; never silently claim full twitter-text parity.
-    for char in normalized:
-        cp = ord(char)
-        ensure(cp not in (0x200D, 0x20E3) and not 0xFE00 <= cp <= 0xFE0F
-               and not 0x1F000 <= cp <= 0x1FAFF and not 0x2600 <= cp <= 0x27BF,
-               'Emoji input requires the official twitter-text parser')
-        ensure(unicodedata.category(char) != 'Cf', 'Hidden format character needs manual review')
-    spans = list(URL.finditer(normalized))
-    for match in spans:
-        ensure(match[0][-1] not in '.,:;!?', 'Ambiguous trailing URL punctuation')
-    plain = URL.sub('', normalized)
-    ensure('http' not in plain and 'www.' not in plain, 'Uncovered URL syntax')
-    ensure(not re.search(r'\b[a-zA-Z0-9-]+\.(?:com|org|net|io|dev|app|co)\b', plain),
-           'Bare domains require official URL extraction')
-    def weight(char: str) -> int:
-        cp = ord(char)
-        return 1 if (cp <= 0x10FF or 0x2000 <= cp <= 0x200D
-                     or 0x2010 <= cp <= 0x201F or 0x2032 <= cp <= 0x2037) else 2
-    return 23 * len(spans) + sum(weight(char) for char in plain)
+    process = subprocess.run(
+        ['node', str(ROOT / 'scripts' / 'x_lengths.js')],
+        input=json.dumps([post], ensure_ascii=False),
+        capture_output=True, text=True,
+    )
+    ensure(process.returncode == 0, f'Official twitter-text failed: {process.stderr.strip()}')
+    parsed = json.loads(process.stdout)[0]
+    length = parsed['weightedLength']
+    ensure(parsed['valid'] or length > 280, 'Invalid X post content')
+    return length
 
 
 def body_hash(posts: list[str]) -> str:

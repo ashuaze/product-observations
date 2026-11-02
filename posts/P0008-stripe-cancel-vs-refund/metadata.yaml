@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0008
+legacy_id: P08
+slug: stripe-cancel-vs-refund
+title_zh: Stripe Cancel vs Refund：真正的 Undo 发生在提交之前
+title_en: 'Stripe cancel versus refund: cancellation and compensation'
+date: '2026-10-15'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: recovery-contracts
+  title: 反悔、退出与恢复
+  cycle_start: P0006
+  cycle_end: P0012
+content_type: analysis
+review_status: pending
+source:
+  filename: P08-stripe-cancel-vs-refund-2026-10-15.md
+  sha256: 6c1e6e50ff324060affeaafbc263a2aae09244ad30365d36d25ca8762e98b1c8
+  checked_at: '2026-10-15'
+  url: https://chatgpt.com/library?file_id=libfile_61cd1f87d9308191b9c326e457f744b1&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 7c6da2c4f6a2ddd8c4948fa899c5af32d8884057a73366ddd48fa9077c39d92f
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-10-15'
+    platform: x
+    post_count: 5
+    body_sha256: b8992baa80741a218c1712886fc0aed8a2b173392a7ead10a14f4c49be3758bc
+    published_at: null
+    published_url: null
+    source_body_sha256: b8992baa80741a218c1712886fc0aed8a2b173392a7ead10a14f4c49be3758bc
+    normalization:
+    - 正文词句和段落保持原样；移除写作块包装与标题中的字符统计。

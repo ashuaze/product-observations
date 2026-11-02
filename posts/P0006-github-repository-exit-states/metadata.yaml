@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0006
+legacy_id: P06
+slug: github-repository-exit-states
+title_zh: GitHub Archive、Transfer 与 Delete：退出项目不是一个动作
+title_en: 'GitHub Archive, Transfer and Delete: different exit jobs'
+date: '2026-10-13'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: recovery-contracts
+  title: 反悔、退出与恢复
+  cycle_start: P0006
+  cycle_end: P0012
+content_type: analysis
+review_status: pending
+source:
+  filename: P06-github-repository-exit-states.md
+  sha256: ce86014eb11b2df1ff440b973418dc40db991b7a681a293147bfc5af997a6f9f
+  checked_at: '2026-10-13'
+  url: https://chatgpt.com/library?file_id=libfile_12fe461b07188191adb1c90f496a6389&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: f371ac7864ee0be9dfc57cd80bf1c8ab260607e3d8868777d4895b99564c220f
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-10-13'
+    platform: x
+    post_count: 6
+    body_sha256: 7a9483718a65e02dfb5fbc75a2372aef3104cd064f718c6a0a11ca743fba0d3e
+    published_at: null
+    published_url: null
+    source_body_sha256: 7a9483718a65e02dfb5fbc75a2372aef3104cd064f718c6a0a11ca743fba0d3e
+    normalization:
+    - 正文词句和段落保持原样；移除写作块包装与标题中的字符统计。

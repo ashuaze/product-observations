@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0011
+legacy_id: P11
+slug: apple-recovery-authority
+title_zh: Apple 账户恢复：恢复权应该交给谁？
+title_en: 'Apple account recovery: who holds the recovery authority?'
+date: '2026-10-18'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: recovery-contracts
+  title: 反悔、退出与恢复
+  cycle_start: P0006
+  cycle_end: P0012
+content_type: analysis
+review_status: pending
+source:
+  filename: P11-apple-recovery-authority-2026-10-18.md
+  sha256: 26d171f3db8dbf7ce7cc4cb5e8f4ecb5106414ed0de0690b91b82d84f6221c6a
+  checked_at: '2026-10-18'
+  url: https://chatgpt.com/library?file_id=libfile_ec9f530cc4488191970a4ad180f90d60&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 3c3a167df15b9dda0511af8977bc7a8a7893c35c27e3239f1130c7dd6fcb31d1
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_with_thread_numbers
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 6
+    body_sha256: a1c29935864c727ea263ce528bd3dcb9b6cb6922971b063db1fd0aa9d2975eb0
+    published_at: null
+    published_url: null
+    source_body_sha256: ee8871c7351ed82f5a850233bb01020f151f531e380ec5baf34101e8a1294196
+    normalization:
+    - 仅补齐正文串帖序号；原英文词句和段落保持原样。

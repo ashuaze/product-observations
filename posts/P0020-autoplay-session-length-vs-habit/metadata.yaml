@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0020
+legacy_id: P20
+slug: autoplay-session-length-vs-habit
+title_zh: Autoplay：更长的会话不等于更强的习惯
+title_en: 'Autoplay: longer sessions do not prove a stronger habit'
+date: '2026-10-27'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: habit-design
+  title: 习惯设计的收益与副作用
+  cycle_start: P0020
+  cycle_end: P0026
+content_type: analysis
+review_status: pending
+source:
+  filename: P20-autoplay-session-length-vs-habit-2026-10-27.md
+  sha256: 92d5f6fe6acf76a2ea84f11468fbae7aaf6f9f9714f1051c18c5aa3a8c2c662b
+  checked_at: '2026-10-27'
+  url: https://chatgpt.com/library?file_id=libfile_23ca14e70b6c81919322ab2549abfddd&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 656cb92fa62b6898e562d2b4a7f5619492fc412705476d4d68220829ae3d309b
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-10-27'
+    platform: x
+    post_count: 6
+    body_sha256: 57dbabededcde4cf86ff45fbf56788caf78006091cf8c749c9f274923028a7cb
+    published_at: null
+    published_url: null
+    source_body_sha256: 57dbabededcde4cf86ff45fbf56788caf78006091cf8c749c9f274923028a7cb
+    normalization:
+    - 正文词句和段落保持原样；移除写作块包装与标题中的字符统计。

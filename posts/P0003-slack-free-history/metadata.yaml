@@ -1,0 +1,44 @@
+schema_version: 1
+id: P0003
+legacy_id: P03
+slug: slack-free-history
+title_zh: Slack 免费版历史记录：付费边界到底在限制什么？
+title_en: 'Slack free history: access limits versus permanent deletion'
+date: '2026-10-10'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: free-paid-boundaries
+  title: 免费与付费边界
+content_type: analysis
+review_status: pending
+source:
+  filename: P03-Slack-free-history-research-2026-10-10.md
+  sha256: 365b14ea8cc0a2470ecd750593a23414bb72a1e54d989516940e8d0c5fa87cf9
+  checked_at: '2026-10-10'
+  url: https://chatgpt.com/library?file_id=libfile_1a313783f3648191898f40f6d028f260&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 1fca320687e4afb8cc2146b60c4a4a4a2592315418930815d14351d9473603c6
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-10-10'
+    platform: x
+    post_count: 6
+    body_sha256: 285535b9d7e7525e4d931db7e61f641664af48f96554aefd4f406038b16ba238
+    published_at: null
+    published_url: null
+    source_body_sha256: 285535b9d7e7525e4d931db7e61f641664af48f96554aefd4f406038b16ba238
+    normalization:
+    - 正文词句和段落保持原样；移除写作块包装与标题中的字符统计。

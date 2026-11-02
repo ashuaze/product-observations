@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0022
+legacy_id: P22
+slug: github-contribution-graph
+title_zh: GitHub 贡献图：指标到底奖励了什么？
+title_en: 'GitHub contribution graphs: what does the metric reward?'
+date: '2026-10-29'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: habit-design
+  title: 习惯设计的收益与副作用
+  cycle_start: P0020
+  cycle_end: P0026
+content_type: analysis
+review_status: pending
+source:
+  filename: P22_GitHub_contribution_graph.md
+  sha256: 9636c5144baa74305ca6044579f0931a13b8b28f23b024da723cca9a5f089788
+  checked_at: '2026-10-29'
+  url: https://chatgpt.com/library?file_id=libfile_c14756a1a598819182651fc3b6ec47a7&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 322e4a07bab977dc85c71703d98f3675427f768b387de5ac42b818a745ad1355
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_with_thread_numbers
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 5
+    body_sha256: f5ad06a8533b55914c46a920632b80f59b55e9cd9ef19ac25ce08e695b0f8cd2
+    published_at: null
+    published_url: null
+    source_body_sha256: ff50a5ebe7aca807881e76b23b8e12edbdf7ab6c7d5046bc963e6b62e90bc128
+    normalization:
+    - 仅补齐正文串帖序号；原英文词句和段落保持原样。

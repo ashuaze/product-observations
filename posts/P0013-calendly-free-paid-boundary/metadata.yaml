@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0013
+legacy_id: P13
+slug: calendly-free-paid-boundary
+title_zh: Calendly：免费版限制的不是预约次数
+title_en: 'Calendly: the free limit is not the number of bookings'
+date: '2026-10-20'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: free-paid-boundaries
+  title: 免费与付费边界
+  cycle_start: P0013
+  cycle_end: P0019
+content_type: analysis
+review_status: pending
+source:
+  filename: P13-calendly-free-paid-boundary-2026-10-20.md
+  sha256: a9cca27bb3809e198e9c38a757ca625dd7f7ff47a7fbecc184cfe9c21fa0d51d
+  checked_at: '2026-10-20'
+  url: https://chatgpt.com/library?file_id=libfile_7e9ffa3f1fc88191b7467836d2a72fdc&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 29161ca03c31611c088adf5cbdce489280032e81d01661e5a909fef51f2ee05e
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-10-20'
+    platform: x
+    post_count: 6
+    body_sha256: 224c817b265022116aec8309ec562e9876850c396bd8438385c0728d1334c68b
+    published_at: null
+    published_url: null
+    source_body_sha256: 224c817b265022116aec8309ec562e9876850c396bd8438385c0728d1334c68b
+    normalization:
+    - 正文词句和段落保持原样；移除写作块包装与标题中的字符统计。

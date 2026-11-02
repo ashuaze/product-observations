@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0016
+legacy_id: P16
+slug: icloud-google-shared-storage-failure-radius
+title_zh: 共享存储池：免费额度为何让多个产品一起失效？
+title_en: Shared storage quotas and the cross-product failure radius
+date: '2026-10-23'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: free-paid-boundaries
+  title: 免费与付费边界
+  cycle_start: P0013
+  cycle_end: P0019
+content_type: analysis
+review_status: pending
+source:
+  filename: P16-icloud-google-shared-storage-failure-radius-2026-10-23.md
+  sha256: ba218984ce0ae2c63ef214d920eaaa3d7d80a3ea6b7a551f6084bc5d792fafa2
+  checked_at: '2026-10-23'
+  url: https://chatgpt.com/library?file_id=libfile_7dba9a9143c481919904373345b2d98e&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 0acedfecc9e22b435e6082534bef7a7bf4fe1cb0a939f117043d0cfb27179857
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_with_thread_numbers
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 5
+    body_sha256: 7fdf0b77988820451ac39989d06fb4ad44e516d38f637ccdc076a13512b92681
+    published_at: null
+    published_url: null
+    source_body_sha256: f8d0e8eb8306c2e37ca97a38362d725e947c682e77793cca5c837ddc773fcef6
+    normalization:
+    - 仅补齐正文串帖序号；原英文词句和段落保持原样。

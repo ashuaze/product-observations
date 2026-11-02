@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0014
+legacy_id: P14
+slug: github-actions-free-boundary
+title_zh: GitHub Actions 免费边界：公开产出是否值得补贴？
+title_en: 'GitHub Actions: when is public output worth subsidizing?'
+date: '2026-10-21'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: free-paid-boundaries
+  title: 免费与付费边界
+  cycle_start: P0013
+  cycle_end: P0019
+content_type: analysis
+review_status: pending
+source:
+  filename: P14_GitHub_Actions_free_boundary.md
+  sha256: 0897e2e9fe310814b7fd0f50072747f6689f27ac42d25cdafadc3d64291aef15
+  checked_at: '2026-10-21'
+  url: https://chatgpt.com/library?file_id=libfile_c89075f2311081919a7f8427cf852fef&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 4d9bd45ec87e9ab1becf5f3c2db21f5f5717bd5e31859983e1dc1618a5edc40a
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_with_thread_numbers
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: eb4630936a5ecb403173bc2b261cb4e926e000c4c7cb8a5b13c0f91f492548ef
+    published_at: null
+    published_url: null
+    source_body_sha256: 9f941f99ffa68844b270ed02e0c3e71b2d7f89ba895516349e037e4afbd56da2
+    normalization:
+    - 仅补齐正文串帖序号；原英文词句和段落保持原样。

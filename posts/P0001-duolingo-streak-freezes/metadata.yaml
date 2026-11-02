@@ -1,0 +1,44 @@
+schema_version: 1
+id: P0001
+legacy_id: P01
+slug: duolingo-streak-freezes
+title_zh: 连胜保护：允许多少次中断，才能帮助用户继续？
+title_en: 'Streak freezes: how much room for interruption helps people return?'
+date: '2026-10-08'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: habit-design
+  title: 习惯设计
+content_type: analysis
+review_status: pending
+source:
+  filename: P01-duolingo-research-v02.md
+  sha256: deaa44cee64d2f29ddefdde132381ddc0f87b5ff28c5098da95865904bb45a19
+  checked_at: '2026-10-08'
+  url: https://chatgpt.com/library?file_id=libfile_8e93ba4af5b48191bc61021443f72538&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 364cabffbe7b46eaacd83fc7501c80614f85cb2db2102298848ce8c34dfd5dca
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-10-08'
+    platform: x
+    post_count: 6
+    body_sha256: 9d18dd0b91b4a9c882547c0f9ad05a76616a71e2d02710dc59ce18437a73daf3
+    published_at: null
+    published_url: null
+    source_body_sha256: 9d18dd0b91b4a9c882547c0f9ad05a76616a71e2d02710dc59ce18437a73daf3
+    normalization:
+    - 正文词句和段落保持原样；移除写作块包装与标题中的字符统计。

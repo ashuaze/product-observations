@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0017
+legacy_id: P17
+slug: notion-member-guest-free-boundary
+title_zh: Notion：第二位成员为何会改变免费额度？
+title_en: 'Notion: why does the second member change the free limit?'
+date: '2026-10-24'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: free-paid-boundaries
+  title: 免费与付费边界
+  cycle_start: P0013
+  cycle_end: P0019
+content_type: analysis
+review_status: pending
+source:
+  filename: P17-notion-member-guest-free-boundary-2026-10-24.md
+  sha256: 3a60428aca471a654da4410d568a113eb9867f044511e56bb091868e857777bc
+  checked_at: '2026-10-24'
+  url: https://chatgpt.com/library?file_id=libfile_1c9fbabac1188191873f8e5809281ae5&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 67feaff3265287588aa4824302ea7d76c051cfddd8634bafd816b2ab06875df9
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_with_thread_numbers
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 02ad92c968863a3871dcbd913ceb412b619ca5a1fa22a0e76c601bc21b0d9f2c
+    published_at: null
+    published_url: null
+    source_body_sha256: 01f44dd26a72be13d5d386debb609d66898aa5b4ed893424f6a274e86308e1e6
+    normalization:
+    - 仅补齐正文串帖序号；原英文词句和段落保持原样。

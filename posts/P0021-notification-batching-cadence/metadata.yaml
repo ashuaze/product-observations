@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0021
+legacy_id: P21
+slug: notification-batching-cadence
+title_zh: 通知摘要：为什么“全部关闭”未必优于分批到达？
+title_en: 'Notification batching: now, later, or off'
+date: '2026-10-28'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: habit-design
+  title: 习惯设计的收益与副作用
+  cycle_start: P0020
+  cycle_end: P0026
+content_type: analysis
+review_status: pending
+source:
+  filename: P21-notification-batching-cadence-2026-10-28.md
+  sha256: bdcfbce33f7b48b913556ad3469482bcc1bc2737c0fa820348c25b1b460c9717
+  checked_at: '2026-10-28'
+  url: https://chatgpt.com/library?file_id=libfile_fc9677d2ed148191b7cbf6ea542ddb67&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 60f74d6980e53fbe81d8d9f845e918f3bb662195a6652a36028fd715c9491ca1
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-10-28'
+    platform: x
+    post_count: 5
+    body_sha256: 6775ebf7597fdc5492e68b65022f27907be25b82f9172f00126df613e360f0de
+    published_at: null
+    published_url: null
+    source_body_sha256: 6775ebf7597fdc5492e68b65022f27907be25b82f9172f00126df613e360f0de
+    normalization:
+    - 正文词句和段落保持原样；移除写作块包装与标题中的字符统计。

@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0018
+legacy_id: P18
+slug: vercel-commercial-intent-free-boundary
+title_zh: Vercel Hobby：免费层为何要判断你是不是在赚钱？
+title_en: 'Vercel Hobby: a free boundary based on commercial intent'
+date: '2026-10-25'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: free-paid-boundaries
+  title: 免费与付费边界
+  cycle_start: P0013
+  cycle_end: P0019
+content_type: analysis
+review_status: pending
+source:
+  filename: P18-vercel-commercial-intent-free-boundary-2026-10-25.md
+  sha256: 44b53a29b065b91ca5202916137a23f097e69559ea2f6e5c040b9915b8ff3f13
+  checked_at: '2026-10-25'
+  url: https://chatgpt.com/library?file_id=libfile_6c4ea1548f888191b7d873a3cb88112d&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 08cddc928d9d77ced387a52c53865eb6b3dc15995a6b21f4fc35b3a6c146d22e
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_with_thread_numbers
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 6
+    body_sha256: b727243e365d97ef7b21c28d40933220970b59b16ca73ee335277d3b081ed244
+    published_at: null
+    published_url: null
+    source_body_sha256: e177f016d7868b193c808b110a51f2a1cdfc1a7c17bf3f5d57802b83a6703343
+    normalization:
+    - 仅补齐正文串帖序号；原英文词句和段落保持原样。

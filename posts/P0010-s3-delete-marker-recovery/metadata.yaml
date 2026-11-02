@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0010
+legacy_id: P10
+slug: s3-delete-marker-recovery
+title_zh: S3 Delete Marker：恢复能力必须先于错误存在
+title_en: 'S3 delete markers: recovery starts before the mistake'
+date: '2026-10-17'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: recovery-contracts
+  title: 反悔、退出与恢复
+  cycle_start: P0006
+  cycle_end: P0012
+content_type: analysis
+review_status: pending
+source:
+  filename: P10-s3-delete-marker-recovery-2026-10-17.md
+  sha256: 9166a417d1ea0ff123b8890121cd71b631d6009c6e4ff318fe3991f31c9c045e
+  checked_at: '2026-10-17'
+  url: https://chatgpt.com/library?file_id=libfile_4e77819da1588191b380887661648133&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 9e489c699d6961abd0f59c22c71ef6148123de716f7fd0949a000968948f124d
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_with_thread_numbers
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 5
+    body_sha256: 09a9da960ac9197b0f1b42435ab4e473dc52b7c6a36a7ed3040adb5ec6662861
+    published_at: null
+    published_url: null
+    source_body_sha256: 0ed43b09f9f43c561a608301639ae30519af6826e67f21ac7e6a19424d1dea4d
+    normalization:
+    - 仅补齐正文串帖序号；原英文词句和段落保持原样。

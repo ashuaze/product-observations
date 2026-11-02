@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0009
+legacy_id: P09
+slug: x-linkedin-account-exit
+title_zh: X 停用 vs LinkedIn 休眠/关闭
+title_en: 'X and LinkedIn: define the account exit contract'
+date: '2026-10-16'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: recovery-contracts
+  title: 反悔、退出与恢复
+  cycle_start: P0006
+  cycle_end: P0012
+content_type: analysis
+review_status: pending
+source:
+  filename: P09-x-linkedin-account-exit-2026-10-16.md
+  sha256: 509c5b29fc319a37b5e49c51c2632ac31334eaaf68dc1b92259d2736e55ab368
+  checked_at: '2026-10-16'
+  url: https://chatgpt.com/library?file_id=libfile_61fb5763f3a081919deafd8099f65680&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: bddbaa384d8ed5270e8e6e40183d2965021f6c392ac89fc3771cf81305fe5c46
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_with_thread_numbers
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 5
+    body_sha256: fbf16de6e89b042dfed25f9abd4fefbbd41975f945d048685df04b08117589e2
+    published_at: null
+    published_url: null
+    source_body_sha256: ef31fdc54ff7d2433b4535ee85e8aabaa7470042c7f9184af2f54520c3939bf0
+    normalization:
+    - 仅补齐正文串帖序号；原英文词句和段落保持原样。

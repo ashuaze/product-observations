@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0019
+legacy_id: P19
+slug: free-paid-boundary-synthesis
+title_zh: 免费层不是一组限制，而是一套分类规则
+title_en: Free tiers are classification rules, not just limits
+date: '2026-10-26'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: free-paid-boundaries
+  title: 免费与付费边界
+  cycle_start: P0013
+  cycle_end: P0019
+content_type: synthesis
+review_status: pending
+source:
+  filename: P19-free-paid-boundary-synthesis-2026-10-26.md
+  sha256: c264399800fd4f1a751ba24dcf93535d2adbf48fb9eff19c2eebb46ee82fb89a
+  checked_at: '2026-10-26'
+  url: https://chatgpt.com/library?file_id=libfile_f1369d58c7108191af1ba6dd6475e3ea&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 5
+    body_sha256: 3e2c6917960da388e4e771416f4dcbbb23402e59ceffab5ec6b698c7e6a3a430
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_with_thread_numbers
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 6
+    body_sha256: d96ce3c7135670e2f19dfc80c3ebf678869519ec58435fed2137fad198f81799
+    published_at: null
+    published_url: null
+    source_body_sha256: 1e137717ad871951d7412168ba2dbf8bd5286a9fd7b04f3b4137c90dcd79cbb3
+    normalization:
+    - 仅补齐正文串帖序号；原英文词句和段落保持原样。

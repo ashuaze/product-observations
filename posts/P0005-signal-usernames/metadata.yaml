@@ -1,0 +1,44 @@
+schema_version: 1
+id: P0005
+legacy_id: P05
+slug: signal-usernames
+title_zh: Signal usernames：一个标识符，不必承担所有身份工作
+title_en: 'Signal usernames: one identifier need not do every job'
+date: '2026-10-12'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: identity-privacy
+  title: 身份与隐私
+content_type: analysis
+review_status: pending
+source:
+  filename: P05-Signal-usernames-research-2026-10-12.md
+  sha256: 6861f3ca3346a5af4f62ecede8d9e4895925038df653c21761513d9e7258b105
+  checked_at: '2026-10-12'
+  url: https://chatgpt.com/library?file_id=libfile_16777d2bcd9881919ca25ef4b982406d&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 69f25ae07f81d5228965cb51e4cb15094e8c27601770e22b9f0940ebfa68c6dc
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-10-12'
+    platform: x
+    post_count: 6
+    body_sha256: 9e4f2fee3739eefb4fc7814781f1d57c90b46aa8aa3fcd2ed0a57e750d98a3fb
+    published_at: null
+    published_url: null
+    source_body_sha256: 9e4f2fee3739eefb4fc7814781f1d57c90b46aa8aa3fcd2ed0a57e750d98a3fb
+    normalization:
+    - 正文词句和段落保持原样；移除写作块包装与标题中的字符统计。

@@ -38,7 +38,7 @@
 
 `scripts/check_archive.py` 检查目录与元数据对应、期号唯一性、必要文件、相对链接、脚注定义、聊天标记清理、串帖顺序、加权长度、正文指纹和索引一致性。
 
-字符计数使用 NFC 归一化及 twitter-text v3 的 Unicode 权重，显式 HTTP(S) URL 计 23；本期没有 emoji 或复杂 URL。工具会拒绝包含复杂 emoji、隐藏格式字符和未覆盖链接形式的正文，要求另用官方 twitter-text 校验后扩展工具，避免给出错误的通过结果。它不是任意输入下官方解析器的完整替代品。
+字符计数使用仓库内随附、未经修改的官方 twitter-text 3.1.0 分发文件，离线处理 Unicode、emoji、裸域名与完整 URL。需要 Node.js 运行计数器，以及 Python 3 和 PyYAML 运行归档检查。来源版本与许可证见 [第三方代码说明](vendor/README.md)。
 
 规则来源：
 

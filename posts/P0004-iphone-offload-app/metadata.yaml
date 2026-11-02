@@ -1,0 +1,44 @@
+schema_version: 1
+id: P0004
+legacy_id: P04
+slug: iphone-offload-app
+title_zh: iPhone Offload App 与 Delete App：保留数据，怎样才算保留退路？
+title_en: 'iPhone Offload App: preserving data and a usable way back'
+date: '2026-10-11'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: recovery-contracts
+  title: 退出与恢复
+content_type: analysis
+review_status: pending
+source:
+  filename: P04-iPhone-Offload-App-research-2026-10-11.md
+  sha256: 0671d4359bdecd515f126221fc798f6cc4172975f9811510516775dbdd2c6068
+  checked_at: '2026-10-11'
+  url: https://chatgpt.com/library?file_id=libfile_5ca61bfc04a881918c8050eacc7dd91e&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: ac5fe046bfaba5c1574a2d351741533fe3b7a63aeeff8f4fef4d8e5b7ca4acd7
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-10-11'
+    platform: x
+    post_count: 6
+    body_sha256: 199603358f071b25626ed2ed7ea7c16db9e3403961e6b0c317e686918ef9c136
+    published_at: null
+    published_url: null
+    source_body_sha256: 199603358f071b25626ed2ed7ea7c16db9e3403961e6b0c317e686918ef9c136
+    normalization:
+    - 正文词句和段落保持原样；移除写作块包装与标题中的字符统计。

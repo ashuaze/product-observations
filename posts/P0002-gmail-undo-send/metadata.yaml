@@ -1,0 +1,44 @@
+schema_version: 1
+id: P0002
+legacy_id: P02
+slug: gmail-undo-send
+title_zh: Gmail Undo Send：纠错机会应该放在哪里？
+title_en: 'Gmail Undo Send: where should the second chance sit?'
+date: '2026-10-09'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: reversibility
+  title: 纠错与可逆选择
+content_type: analysis
+review_status: pending
+source:
+  filename: P02-Gmail-Undo-Send-research-2026-10-09.md
+  sha256: 6c8e53d5cfdd6f41d9e4aba1058fcb58c4609abd9f9a77d5fbe1160a9480a7ba
+  checked_at: '2026-10-09'
+  url: https://chatgpt.com/library?file_id=libfile_f8c1d2cf12b881919c73263e6e4b64d9&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 8214221339b1166787216fe95ee7e36bda903e5bc483963e91b243ced8e71fe1
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-10-09'
+    platform: x
+    post_count: 6
+    body_sha256: 24e05a606ac962ad3d950e14904448053bd0f19ba32ed2e021acfd40cc28f6ca
+    published_at: null
+    published_url: null
+    source_body_sha256: 24e05a606ac962ad3d950e14904448053bd0f19ba32ed2e021acfd40cc28f6ca
+    normalization:
+    - 正文词句和段落保持原样；移除写作块包装与标题中的字符统计。

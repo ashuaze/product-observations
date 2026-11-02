@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0007
+legacy_id: P07
+slug: google-drive-recovery-scope
+title_zh: Google Drive：恢复范围应该和事故范围一样大
+title_en: 'Google Drive: match the recovery unit to the failure unit'
+date: '2026-10-14'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: recovery-contracts
+  title: 反悔、退出与恢复
+  cycle_start: P0006
+  cycle_end: P0012
+content_type: analysis
+review_status: pending
+source:
+  filename: P07-google-drive-recovery-scope-2026-10-14.md
+  sha256: 3be6cc0b4aba2dc72345011eda53a9f98537687a6d0080281995e6572125e252
+  checked_at: '2026-10-14'
+  url: https://chatgpt.com/library?file_id=libfile_ce0f31d398bc8191a391a6a8fc034f51&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: 6fac0d3534d97a3d468e1e5862c9b3c7b701def0cba8f27fad6d3c61a5789d85
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-10-14'
+    platform: x
+    post_count: 5
+    body_sha256: 08b900a7649533a43aaa4261b5ff956dd7cbadaacc736cfd26ef14316d7e9fbf
+    published_at: null
+    published_url: null
+    source_body_sha256: 08b900a7649533a43aaa4261b5ff956dd7cbadaacc736cfd26ef14316d7e9fbf
+    normalization:
+    - 正文词句和段落保持原样；移除写作块包装与标题中的字符统计。

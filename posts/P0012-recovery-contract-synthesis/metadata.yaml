@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0012
+legacy_id: P12
+slug: recovery-contract-synthesis
+title_zh: 恢复路径，也要经得起同一场事故
+title_en: Recovery paths must survive the same failure
+date: '2026-10-19'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: recovery-contracts
+  title: 反悔、退出与恢复
+  cycle_start: P0006
+  cycle_end: P0012
+content_type: synthesis
+review_status: pending
+source:
+  filename: P12-recovery-contract-synthesis-2026-10-19.md
+  sha256: df22d64462afededb678e9d5a54887fafa28202a7cb7ab1899f09481812963b2
+  checked_at: '2026-10-19'
+  url: https://chatgpt.com/library?file_id=libfile_adc4fbe630d08191a77a2afa46972b3a&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 5
+    body_sha256: 30c24c419763427d12cd29a908412a85267215c233d2ea5349496a0320198f41
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-10-19'
+    platform: x
+    post_count: 6
+    body_sha256: b9de3e5ed32147290acf8198e92d0a4fc3c4e0f1052536332c8c5a6feb2b2f52
+    published_at: null
+    published_url: null
+    source_body_sha256: b9de3e5ed32147290acf8198e92d0a4fc3c4e0f1052536332c8c5a6feb2b2f52
+    normalization:
+    - 正文词句和段落保持原样；移除写作块包装与标题中的字符统计。
