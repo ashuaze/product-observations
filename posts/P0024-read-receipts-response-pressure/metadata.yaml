@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0024
+legacy_id: P24
+slug: read-receipts-response-pressure
+title_zh: 已读回执：当状态提示变成回复义务
+title_en: 'Read receipts: when awareness becomes an obligation'
+date: '2026-10-31'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: habit-design
+  title: 习惯设计的收益与副作用
+  cycle_start: P0020
+  cycle_end: P0026
+content_type: case_comparison
+review_status: pending
+source:
+  filename: P24-read-receipts-response-pressure-2026-10-31.md
+  sha256: 19fd92416fccfe6239f8834f1be2035f49473e7ed549bb083d81db8d5a5366aa
+  checked_at: '2026-10-31'
+  url: https://chatgpt.com/library?file_id=libfile_299aefdf101481918c7905cea629d368&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 4
+    body_sha256: a31306cc0ccafd92b94074878016c3bb6578a0102a7be2350b1eee59b43aebff
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-10-31'
+    platform: x
+    post_count: 4
+    body_sha256: 354e01c612f0878502cfccf68170e30df3d06af4d95c245185bc53cc44a35aad
+    published_at: null
+    published_url: null
+    source_body_sha256: 354e01c612f0878502cfccf68170e30df3d06af4d95c245185bc53cc44a35aad
+    normalization:
+    - 英文发布正文保持原样，仅将标题中的字符检查说明移出发布文件。

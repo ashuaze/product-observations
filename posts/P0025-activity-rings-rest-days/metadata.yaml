@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0025
+legacy_id: P25
+slug: activity-rings-rest-days
+title_zh: Apple Watch 活动圆环：习惯何时需要休息日？
+title_en: 'Apple Watch Activity rings: when a habit needs rest days'
+date: '2026-11-01'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: habit-design
+  title: 习惯设计的收益与副作用
+  cycle_start: P0020
+  cycle_end: P0026
+content_type: analysis
+review_status: pending
+source:
+  filename: P25-activity-rings-rest-days-2026-11-01.md
+  sha256: 31720e9924f70b7b393a6f1397a280b02eac4774f9cc34d6ef479729472b556a
+  checked_at: '2026-11-01'
+  url: https://chatgpt.com/library?file_id=libfile_aa71427cf5a0819195db363718d07a47&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 6
+    body_sha256: feb29bf94422154031a9fa1e0f6a1aff9a87903bf61b8d5f9afac16907eab965
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_from_source
+    prepared_at: '2026-11-01'
+    platform: x
+    post_count: 6
+    body_sha256: f70c2195cbf625df3eec344baab93aa853d95c15d073b1af1d9c5b8a96f16b98
+    published_at: null
+    published_url: null
+    source_body_sha256: f70c2195cbf625df3eec344baab93aa853d95c15d073b1af1d9c5b8a96f16b98
+    normalization:
+    - 英文发布正文保持原样，仅将标题中的字符检查说明移出发布文件。

@@ -2,7 +2,7 @@
 
 观察日常产品背后的设计、用户行为与商业选择，为产品经理、设计师与独立开发者提供可检验的判断。
 
-本仓库从 P26 的首次归档试跑开始积累，目前收录这一期。归档不代表已经人工审定或发布。
+本仓库从 P26 的首次归档试跑开始积累，目前收录 P23–P26 四期。归档不代表已经人工审定或发布。
 
 每期位于 `posts/P0000-slug/`，包含介绍、研究底稿、独立中英文发布稿及结构化元数据。期号稳定；标题变化不改变目录。
 
@@ -11,6 +11,9 @@
 <!-- ARCHIVE:START -->
 | 期号 | 日期 | 标题 | 主题 | 中文稿 | 英文稿 |
 |---|---|---|---|---|---|
+| P0023 | 2026-10-30 | [Instagram 点赞数：一项指标到底给谁看？](posts/P0023-instagram-like-count-visibility/README.md) | 习惯设计的收益与副作用 | [草稿](posts/P0023-instagram-like-count-visibility/publish-zh.md) | [草稿](posts/P0023-instagram-like-count-visibility/publish-en.md) |
+| P0024 | 2026-10-31 | [已读回执：当状态提示变成回复义务](posts/P0024-read-receipts-response-pressure/README.md) | 习惯设计的收益与副作用 | [草稿](posts/P0024-read-receipts-response-pressure/publish-zh.md) | [草稿](posts/P0024-read-receipts-response-pressure/publish-en.md) |
+| P0025 | 2026-11-01 | [Apple Watch 活动圆环：习惯何时需要休息日？](posts/P0025-activity-rings-rest-days/README.md) | 习惯设计的收益与副作用 | [草稿](posts/P0025-activity-rings-rest-days/publish-zh.md) | [草稿](posts/P0025-activity-rings-rest-days/publish-en.md) |
 | P0026 | 2026-11-02 | [习惯设计的四个杠杆：从增长功能到反馈回路](posts/P0026-habit-design-feedback-loops/README.md) | 习惯设计的收益与副作用 | [草稿](posts/P0026-habit-design-feedback-loops/publish-zh.md) | [草稿](posts/P0026-habit-design-feedback-loops/publish-en.md) |
 <!-- ARCHIVE:END -->
 
@@ -18,6 +21,7 @@
 
 - [归档与同步约定](ARCHIVE.md)
 - [本次试跑报告](TRIAL-REPORT.md)
+- [P23–P25 历史回填记录](BACKFILL-P0023-P0025.md)
 - 安装检查依赖：`python3 -m pip install -r requirements.txt`
 - 更新索引并检查：`python3 scripts/check_archive.py --write-index`
 - 仅检查，不修改：`python3 scripts/check_archive.py`

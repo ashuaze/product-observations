@@ -1,0 +1,46 @@
+schema_version: 1
+id: P0023
+legacy_id: P23
+slug: instagram-like-count-visibility
+title_zh: Instagram 点赞数：一项指标到底给谁看？
+title_en: 'Instagram like counts: who is the metric for?'
+date: '2026-10-30'
+timezone: Asia/Shanghai
+archived_at: '2026-11-02'
+theme:
+  id: habit-design
+  title: 习惯设计的收益与副作用
+  cycle_start: P0020
+  cycle_end: P0026
+content_type: analysis
+review_status: pending
+source:
+  filename: P23-instagram-like-count-visibility-2026-10-30.md
+  sha256: 11526c595a9666a019dc9b60efc5f59bb147354553390797469d0d58ea22d528
+  checked_at: '2026-10-30'
+  url: https://chatgpt.com/library?file_id=libfile_65a903957a2481918c1aaa87eb779f59&account_id=personal
+  rechecked_during_archival: false
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: adapted_from_source_research
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 5
+    body_sha256: dfcdfc4ff6cdcae79628bcf205d2fb922857f8be180bba14af9170d00cb46256
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: preserved_with_thread_numbers
+    prepared_at: '2026-11-02'
+    platform: x
+    post_count: 5
+    body_sha256: 8ff753d602318f32bf051c19515b97c56976a49c97ecb2ef07135a0e9c60339f
+    published_at: null
+    published_url: null
+    source_body_sha256: 0cc1412ac448cad12cb2c374e1374ae44cfcb2647aa15a95aab910b5a14cbcf8
+    normalization:
+    - 原英文发布正文未含串帖序号，本次添加序号；原有词句保持不变。
