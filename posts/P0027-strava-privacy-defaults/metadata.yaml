@@ -1,0 +1,44 @@
+schema_version: 1
+id: P0027
+legacy_id: P27
+slug: strava-privacy-defaults
+title_zh: Strava：隐藏路线，不等于收窄受众
+title_en: 'Strava: map redaction, audience and the scope of a privacy default'
+date: '2026-11-03'
+timezone: Asia/Shanghai
+archived_at: '2026-11-03T12:32:48+08:00'
+theme:
+  id: privacy-defaults
+  title: 隐私与默认设置
+  cycle_start: P0027
+  cycle_end: P0033
+content_type: analysis
+review_status: pending
+source:
+  filename: P27-strava-privacy-defaults-2026-11-03.md
+  sha256: df0860b7df4e4b6e15a1c155617d1b8775f04ed2c703c2f96f07f769d0676853
+  checked_at: '2026-11-03'
+  origin: created_in_this_run_from_verified_primary_sources
+  url: https://chatgpt.com/library?file_id=libfile_f62e7fd127348191ba43e5233fd69e87&account_id=personal
+  rechecked_during_archival: true
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-03T12:32:48+08:00'
+    platform: x
+    post_count: 6
+    body_sha256: 3a138b87ec445d768e58db3fc75fe433db837ed37e5334faeadfdd86662e2036
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-03T12:32:48+08:00'
+    platform: x
+    post_count: 6
+    body_sha256: a0d56dba03c0c11e9a73dfe02e6d173522672a9285842e3c7b3c963841bc4fec
+    published_at: null
+    published_url: null
