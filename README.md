@@ -38,6 +38,7 @@
 | P0025 | 2026-11-01 | [Apple Watch 活动圆环：习惯何时需要休息日？](posts/P0025-activity-rings-rest-days/README.md) | 习惯设计的收益与副作用 | [草稿](posts/P0025-activity-rings-rest-days/publish-zh.md) | [草稿](posts/P0025-activity-rings-rest-days/publish-en.md) |
 | P0026 | 2026-11-02 | [习惯设计的四个杠杆：从增长功能到反馈回路](posts/P0026-habit-design-feedback-loops/README.md) | 习惯设计的收益与副作用 | [草稿](posts/P0026-habit-design-feedback-loops/publish-zh.md) | [草稿](posts/P0026-habit-design-feedback-loops/publish-en.md) |
 | P0027 | 2026-11-03 | [Strava：隐藏路线，不等于收窄受众](posts/P0027-strava-privacy-defaults/README.md) | 隐私与默认设置 | [草稿](posts/P0027-strava-privacy-defaults/publish-zh.md) | [草稿](posts/P0027-strava-privacy-defaults/publish-en.md) |
+| P0028 | 2026-11-04 | [定位权限：把精确位置留给真正需要它的一步](posts/P0028-location-permission-precision/README.md) | 隐私与默认设置 | [草稿](posts/P0028-location-permission-precision/publish-zh.md) | [草稿](posts/P0028-location-permission-precision/publish-en.md) |
 <!-- ARCHIVE:END -->
 
 ## 研究周期

@@ -1,0 +1,43 @@
+schema_version: 1
+id: P0028
+legacy_id: P28
+slug: location-permission-precision
+title_zh: 定位权限：把精确位置留给真正需要它的一步
+title_en: 'Location permissions: save precise access for the step that needs it'
+date: '2026-11-04'
+timezone: Asia/Shanghai
+archived_at: '2026-11-04T12:28:20+08:00'
+theme:
+  id: privacy-defaults
+  title: 隐私与默认设置
+  cycle_start: P0027
+  cycle_end: P0033
+content_type: case-comparison
+review_status: pending
+source:
+  filename: research.md
+  sha256: 67b98114ce4ce1ece3b1c4ddf6062f5ca05fc70c06964157c02073ef2ccad3d2
+  checked_at: '2026-11-04'
+  origin: original_research_written_in_this_run
+  url: null
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-04T12:28:20+08:00'
+    platform: x
+    post_count: 4
+    body_sha256: af5c95d7653cd8bbc1dd8bce9c027e1751e46b8fb5e32509d348b0b263dc397a
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-04T12:28:20+08:00'
+    platform: x
+    post_count: 4
+    body_sha256: 2967586a6153931acad86545e03f3ab16c674c2113e0cee95fa5580f7adc0468
+    published_at: null
+    published_url: null
