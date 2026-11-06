@@ -1,0 +1,43 @@
+schema_version: 1
+id: P0030
+legacy_id: P30
+slug: chrome-incognito-observer-boundaries
+title_zh: Chrome 无痕模式：谁看不到什么，直到什么时候？
+title_en: 'Chrome Incognito: private from whom, and until when?'
+date: '2026-11-06'
+timezone: Asia/Shanghai
+archived_at: '2026-11-06T12:33:29+08:00'
+theme:
+  id: privacy-defaults
+  title: 隐私与默认设置
+  cycle_start: P0027
+  cycle_end: P0033
+content_type: short-observation
+review_status: pending
+source:
+  filename: research.md
+  sha256: c92f5462fdfd279ca5bc0f8469a44eaebefea983514f4305288890d46d3fe7ce
+  checked_at: '2026-11-06'
+  origin: original_research_written_in_this_run
+  url: null
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-06T12:33:29+08:00'
+    platform: x
+    post_count: 3
+    body_sha256: bb3ef05efd13d9c9d3b1ec489ee71f9266c7eefc892f791cf29ff5578cdaeb97
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-06T12:33:29+08:00'
+    platform: x
+    post_count: 3
+    body_sha256: 5d977dd60f397bc9347e6b31605cdd5b40bb74967c710533f239fbe9bc4944cd
+    published_at: null
+    published_url: null
