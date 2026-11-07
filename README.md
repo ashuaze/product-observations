@@ -41,6 +41,7 @@
 | P0028 | 2026-11-04 | [定位权限：把精确位置留给真正需要它的一步](posts/P0028-location-permission-precision/README.md) | 隐私与默认设置 | [草稿](posts/P0028-location-permission-precision/publish-zh.md) | [草稿](posts/P0028-location-permission-precision/publish-en.md) |
 | P0029 | 2026-11-05 | [YouTube Unlisted：把链接发给谁，和谁能看，是两回事](posts/P0029-youtube-unlisted-link-access/README.md) | 隐私与默认设置 | [草稿](posts/P0029-youtube-unlisted-link-access/publish-zh.md) | [草稿](posts/P0029-youtube-unlisted-link-access/publish-en.md) |
 | P0030 | 2026-11-06 | [Chrome 无痕模式：谁看不到什么，直到什么时候？](posts/P0030-chrome-incognito-observer-boundaries/README.md) | 隐私与默认设置 | [草稿](posts/P0030-chrome-incognito-observer-boundaries/publish-zh.md) | [草稿](posts/P0030-chrome-incognito-observer-boundaries/publish-en.md) |
+| P0031 | 2026-11-07 | [消失消息：24 小时从什么时候算？](posts/P0031-disappearing-message-clocks/README.md) | 隐私与默认设置 | [草稿](posts/P0031-disappearing-message-clocks/publish-zh.md) | [草稿](posts/P0031-disappearing-message-clocks/publish-en.md) |
 <!-- ARCHIVE:END -->
 
 ## 研究周期

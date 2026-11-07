@@ -1,0 +1,43 @@
+schema_version: 1
+id: P0031
+legacy_id: P31
+slug: disappearing-message-clocks
+title_zh: 消失消息：24 小时从什么时候算？
+title_en: 'Disappearing messages: when does the clock start?'
+date: '2026-11-07'
+timezone: Asia/Shanghai
+archived_at: '2026-11-07T12:31:11+08:00'
+theme:
+  id: privacy-defaults
+  title: 隐私与默认设置
+  cycle_start: P0027
+  cycle_end: P0033
+content_type: short-observation
+review_status: pending
+source:
+  filename: research.md
+  sha256: e1f09419303b7f5695e208e0b8696c9def6adf84398aae7662d1af4e976f0aa0
+  checked_at: '2026-11-07'
+  origin: original_research_written_in_this_run
+  url: null
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-07T12:31:11+08:00'
+    platform: x
+    post_count: 4
+    body_sha256: 65821195bb08b466e054d5b26802a6dc14994bc169b7472150cc858eb4f02711
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-07T12:31:11+08:00'
+    platform: x
+    post_count: 4
+    body_sha256: ba2b6da86ebac9435dbace6b0d070c8db8212c4bbe802a4c19c6a46cc3fa7180
+    published_at: null
+    published_url: null
