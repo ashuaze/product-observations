@@ -1,0 +1,43 @@
+schema_version: 1
+id: P0034
+legacy_id: P34
+slug: github-draft-pr-review-handoff
+title_zh: GitHub 草稿 PR：什么时候该请人接手评审？
+title_en: 'GitHub draft PRs: when should the reviewer take over?'
+date: '2026-11-10'
+timezone: Asia/Shanghai
+archived_at: '2026-11-10T12:34:29+08:00'
+theme:
+  id: collaboration-handoffs
+  title: 协作交接与责任
+  cycle_start: P0034
+  cycle_end: P0040
+content_type: full-analysis
+review_status: pending
+source:
+  filename: research.md
+  sha256: e91d895856e475e3a5d65fa21273b338a3263e682f049f0b5569c416bb52d6c9
+  checked_at: '2026-11-10'
+  origin: original_research_written_in_this_run
+  url: null
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-10T12:34:29+08:00'
+    platform: x
+    post_count: 5
+    body_sha256: 880d0f9e1cba1bbb34118443095a1eb01c0b1b4f1dea9bc5444a7cef9293b091
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-10T12:34:29+08:00'
+    platform: x
+    post_count: 5
+    body_sha256: 0977787c0362ffa21a71f94cfebc3ba40207fe22067cb27bd32924b0fdc498cf
+    published_at: null
+    published_url: null
