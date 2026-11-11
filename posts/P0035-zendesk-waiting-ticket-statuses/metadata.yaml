@@ -1,0 +1,43 @@
+schema_version: 1
+id: P0035
+legacy_id: P35
+slug: zendesk-waiting-ticket-statuses
+title_zh: Zendesk 工单：等待中，等的是谁？
+title_en: 'Zendesk tickets: who are we waiting for?'
+date: '2026-11-11'
+timezone: Asia/Shanghai
+archived_at: '2026-11-11T12:29:16+08:00'
+theme:
+  id: collaboration-handoffs
+  title: 协作交接与责任
+  cycle_start: P0034
+  cycle_end: P0040
+content_type: short-observation
+review_status: pending
+source:
+  filename: research.md
+  sha256: cc53eec7f3e80d678f6737d0a53e1d1a74af73622d6642875120726f5c41d71b
+  checked_at: '2026-11-11'
+  origin: original_research_written_in_this_run
+  url: null
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-11T12:29:16+08:00'
+    platform: x
+    post_count: 4
+    body_sha256: 13a1b21d2b48d5fcc3d9bd0cb0ce85b1808c85810cc9e72527d55c3066deb09d
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-11T12:29:16+08:00'
+    platform: x
+    post_count: 4
+    body_sha256: 356e68932c79c5d68c45c955c1b60402bd355ec6dc3dd4cce28dedc75d60425e
+    published_at: null
+    published_url: null
