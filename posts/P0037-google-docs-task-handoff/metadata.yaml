@@ -1,0 +1,43 @@
+schema_version: 1
+id: P0037
+legacy_id: P37
+slug: google-docs-task-handoff
+title_zh: Google Docs：删掉纪要，等于取消待办吗？
+title_en: 'Google Docs: does deleting a note cancel the task?'
+date: '2026-11-13'
+timezone: Asia/Shanghai
+archived_at: '2026-11-13T12:29:06+08:00'
+theme:
+  id: collaboration-handoffs
+  title: 协作交接与责任
+  cycle_start: P0034
+  cycle_end: P0040
+content_type: short-observation
+review_status: pending
+source:
+  filename: research.md
+  sha256: d7638f352941e9a47f8432c4155c0515b31e87e7d64119327fc43015f8a9106e
+  checked_at: '2026-11-13'
+  origin: original_research_written_in_this_run
+  url: null
+languages:
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-13T12:29:06+08:00'
+    platform: x
+    post_count: 4
+    body_sha256: b1618a4e3d07294149166e01392894aea7524624290d56fb7f97dcedf4ad35b7
+    published_at: null
+    published_url: null
+  en:
+    file: publish-en.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-13T12:29:06+08:00'
+    platform: x
+    post_count: 4
+    body_sha256: f7fdf0da8743bd9050e5f4a1dd8a0fa9a64ff9a450a0451d47401a201571079c
+    published_at: null
+    published_url: null

@@ -47,6 +47,7 @@
 | P0034 | 2026-11-10 | [GitHub 草稿 PR：什么时候该请人接手评审？](posts/P0034-github-draft-pr-review-handoff/README.md) | 协作交接与责任 | [草稿](posts/P0034-github-draft-pr-review-handoff/publish-zh.md) | [草稿](posts/P0034-github-draft-pr-review-handoff/publish-en.md) |
 | P0035 | 2026-11-11 | [Zendesk 工单：等待中，等的是谁？](posts/P0035-zendesk-waiting-ticket-statuses/README.md) | 协作交接与责任 | [草稿](posts/P0035-zendesk-waiting-ticket-statuses/publish-zh.md) | [草稿](posts/P0035-zendesk-waiting-ticket-statuses/publish-en.md) |
 | P0036 | 2026-11-12 | [Figma Ready for dev：开发该以哪一版为准？](posts/P0036-figma-dev-mode-handoff-version/README.md) | 协作交接与责任 | [草稿](posts/P0036-figma-dev-mode-handoff-version/publish-zh.md) | [草稿](posts/P0036-figma-dev-mode-handoff-version/publish-en.md) |
+| P0037 | 2026-11-13 | [Google Docs：删掉纪要，等于取消待办吗？](posts/P0037-google-docs-task-handoff/README.md) | 协作交接与责任 | [草稿](posts/P0037-google-docs-task-handoff/publish-zh.md) | [草稿](posts/P0037-google-docs-task-handoff/publish-en.md) |
 <!-- ARCHIVE:END -->
 
 ## 研究周期
