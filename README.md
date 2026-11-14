@@ -48,6 +48,7 @@
 | P0035 | 2026-11-11 | [Zendesk 工单：等待中，等的是谁？](posts/P0035-zendesk-waiting-ticket-statuses/README.md) | 协作交接与责任 | [草稿](posts/P0035-zendesk-waiting-ticket-statuses/publish-zh.md) | [草稿](posts/P0035-zendesk-waiting-ticket-statuses/publish-en.md) |
 | P0036 | 2026-11-12 | [Figma Ready for dev：开发该以哪一版为准？](posts/P0036-figma-dev-mode-handoff-version/README.md) | 协作交接与责任 | [草稿](posts/P0036-figma-dev-mode-handoff-version/publish-zh.md) | [草稿](posts/P0036-figma-dev-mode-handoff-version/publish-en.md) |
 | P0037 | 2026-11-13 | [Google Docs：删掉纪要，等于取消待办吗？](posts/P0037-google-docs-task-handoff/README.md) | 协作交接与责任 | [草稿](posts/P0037-google-docs-task-handoff/publish-zh.md) | [草稿](posts/P0037-google-docs-task-handoff/publish-en.md) |
+| P0038 | 2026-11-14 | [PagerDuty：确认接手之后，什么时候该再呼叫？](posts/P0038-pagerduty-acknowledgment-timeout/README.md) | 协作交接与责任 | [草稿](posts/P0038-pagerduty-acknowledgment-timeout/publish-zh.md) | [草稿](posts/P0038-pagerduty-acknowledgment-timeout/publish-en.md) |
 <!-- ARCHIVE:END -->
 
 ## 研究周期
