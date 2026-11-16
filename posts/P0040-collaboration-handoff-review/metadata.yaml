@@ -1,0 +1,43 @@
+schema_version: 1
+id: P0040
+legacy_id: P40
+slug: collaboration-handoff-review
+title_zh: 协作交接：状态变了，下一步该变吗？
+title_en: 'Handoffs: when should a status change what people do?'
+date: '2026-11-16'
+timezone: Asia/Shanghai
+archived_at: '2026-11-16T12:35:36+08:00'
+theme:
+  id: collaboration-handoffs
+  title: 协作交接与责任
+  cycle_start: P0034
+  cycle_end: P0040
+content_type: synthesis
+review_status: pending
+source:
+  filename: research.md
+  sha256: c340e530bbf429bd3b69ab3a5a40a93f1fb310899510fe2d566d4510315077bb
+  checked_at: '2026-11-16'
+  origin: original_research_written_in_this_run
+  url: null
+languages:
+  en:
+    file: publish-en.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-16T12:35:36+08:00'
+    platform: x
+    post_count: 5
+    body_sha256: a3be32e96ad53792f83d168d6b7812c601eb86647002b300316cba0ba41381ba
+    published_at: null
+    published_url: null
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-16T12:35:36+08:00'
+    platform: x
+    post_count: 5
+    body_sha256: e82266271efa95a211149c5accb62b5dfec8952a6c57d48a4c5f8ea2234ae2d5
+    published_at: null
+    published_url: null
