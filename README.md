@@ -51,6 +51,7 @@
 | P0038 | 2026-11-14 | [PagerDuty：确认接手之后，什么时候该再呼叫？](posts/P0038-pagerduty-acknowledgment-timeout/README.md) | 协作交接与责任 | [草稿](posts/P0038-pagerduty-acknowledgment-timeout/publish-zh.md) | [草稿](posts/P0038-pagerduty-acknowledgment-timeout/publish-en.md) |
 | P0039 | 2026-11-15 | [Asana：两块看板上的任务，什么时候算同一件事？](posts/P0039-asana-shared-task-completion/README.md) | 协作交接与责任 | [草稿](posts/P0039-asana-shared-task-completion/publish-zh.md) | [草稿](posts/P0039-asana-shared-task-completion/publish-en.md) |
 | P0040 | 2026-11-16 | [协作交接：状态变了，下一步该变吗？](posts/P0040-collaboration-handoff-review/README.md) | 协作交接与责任 | [草稿](posts/P0040-collaboration-handoff-review/publish-zh.md) | [草稿](posts/P0040-collaboration-handoff-review/publish-en.md) |
+| P0041 | 2026-11-17 | [Spotify：一次播放该怎样影响下一次推荐？](posts/P0041-spotify-taste-profile-context/README.md) | 推荐系统如何判断一次行为是否应该影响未来推荐？ | [草稿](posts/P0041-spotify-taste-profile-context/publish-zh.md) | [草稿](posts/P0041-spotify-taste-profile-context/publish-en.md) |
 <!-- ARCHIVE:END -->
 
 ## 研究周期
