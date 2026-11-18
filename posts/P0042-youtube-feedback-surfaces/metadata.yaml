@@ -1,0 +1,43 @@
+schema_version: 1
+id: P0042
+legacy_id: P42
+slug: youtube-feedback-surfaces
+title_zh: YouTube 不感兴趣：反馈后，哪些页面应该改变？
+title_en: 'YouTube: Where should “Not interested” take effect?'
+date: '2026-11-18'
+timezone: Asia/Shanghai
+archived_at: '2026-11-18T12:30:25+08:00'
+theme:
+  id: recommendation-signals
+  title: 推荐系统如何判断一次行为是否应该影响未来推荐？
+  cycle_start: P0041
+  cycle_end: P0047
+content_type: short-observation
+review_status: pending
+source:
+  filename: research.md
+  sha256: ca06b7f42189cdf7e8dc7a7c3f9dfed9864cfd54157c17a2f8b44313aa63770b
+  checked_at: '2026-11-18'
+  origin: original_research_written_in_this_run
+  url: null
+languages:
+  en:
+    file: publish-en.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-18T12:30:25+08:00'
+    platform: x
+    post_count: 4
+    body_sha256: 8afed3641b36a39cdc3102e134e3ea351aff5e6b34b6fad39d943845be736c7c
+    published_at: null
+    published_url: null
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-18T12:30:25+08:00'
+    platform: x
+    post_count: 4
+    body_sha256: 1357eb4fda36770e22691e91ca74d84f59bed4f733ab6180650d4b15cec2d554
+    published_at: null
+    published_url: null
