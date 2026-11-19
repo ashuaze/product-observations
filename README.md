@@ -53,6 +53,7 @@
 | P0040 | 2026-11-16 | [协作交接：状态变了，下一步该变吗？](posts/P0040-collaboration-handoff-review/README.md) | 协作交接与责任 | [草稿](posts/P0040-collaboration-handoff-review/publish-zh.md) | [草稿](posts/P0040-collaboration-handoff-review/publish-en.md) |
 | P0041 | 2026-11-17 | [Spotify：一次播放该怎样影响下一次推荐？](posts/P0041-spotify-taste-profile-context/README.md) | 推荐系统如何判断一次行为是否应该影响未来推荐？ | [草稿](posts/P0041-spotify-taste-profile-context/publish-zh.md) | [草稿](posts/P0041-spotify-taste-profile-context/publish-en.md) |
 | P0042 | 2026-11-18 | [YouTube 不感兴趣：反馈后，哪些页面应该改变？](posts/P0042-youtube-feedback-surfaces/README.md) | 推荐系统如何判断一次行为是否应该影响未来推荐？ | [草稿](posts/P0042-youtube-feedback-surfaces/publish-zh.md) | [草稿](posts/P0042-youtube-feedback-surfaces/publish-en.md) |
+| P0043 | 2026-11-19 | [Netflix 双赞：多一个反馈选项，什么时候值得？](posts/P0043-netflix-double-thumbs-feedback/README.md) | 推荐系统如何判断一次行为是否应该影响未来推荐？ | [草稿](posts/P0043-netflix-double-thumbs-feedback/publish-zh.md) | [草稿](posts/P0043-netflix-double-thumbs-feedback/publish-en.md) |
 <!-- ARCHIVE:END -->
 
 ## 研究周期
