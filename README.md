@@ -55,6 +55,7 @@
 | P0042 | 2026-11-18 | [YouTube 不感兴趣：反馈后，哪些页面应该改变？](posts/P0042-youtube-feedback-surfaces/README.md) | 推荐系统如何判断一次行为是否应该影响未来推荐？ | [草稿](posts/P0042-youtube-feedback-surfaces/publish-zh.md) | [草稿](posts/P0042-youtube-feedback-surfaces/publish-en.md) |
 | P0043 | 2026-11-19 | [Netflix 双赞：多一个反馈选项，什么时候值得？](posts/P0043-netflix-double-thumbs-feedback/README.md) | 推荐系统如何判断一次行为是否应该影响未来推荐？ | [草稿](posts/P0043-netflix-double-thumbs-feedback/publish-zh.md) | [草稿](posts/P0043-netflix-double-thumbs-feedback/publish-en.md) |
 | P0044 | 2026-11-20 | [Pinterest 私密画板：收藏何时该停止影响推荐？](posts/P0044-pinterest-private-boards-task-completion/README.md) | 推荐系统如何判断一次行为是否应该影响未来推荐？ | [草稿](posts/P0044-pinterest-private-boards-task-completion/publish-zh.md) | [草稿](posts/P0044-pinterest-private-boards-task-completion/publish-en.md) |
+| P0045 | 2026-11-21 | [Facebook Keyword Snooze：一次拒绝，多久到期？](posts/P0045-facebook-keyword-snooze-expiry/README.md) | 推荐系统如何判断一次行为是否应该影响未来推荐？ | [草稿](posts/P0045-facebook-keyword-snooze-expiry/publish-zh.md) | [草稿](posts/P0045-facebook-keyword-snooze-expiry/publish-en.md) |
 <!-- ARCHIVE:END -->
 
 ## 研究周期

@@ -1,0 +1,43 @@
+schema_version: 1
+id: P0045
+legacy_id: P45
+slug: facebook-keyword-snooze-expiry
+title_zh: Facebook Keyword Snooze：一次拒绝，多久到期？
+title_en: 'Facebook Keyword Snooze: When should a rejection expire?'
+date: '2026-11-21'
+timezone: Asia/Shanghai
+archived_at: '2026-11-21T12:37:09+08:00'
+theme:
+  id: recommendation-signals
+  title: 推荐系统如何判断一次行为是否应该影响未来推荐？
+  cycle_start: P0041
+  cycle_end: P0047
+content_type: short-observation
+review_status: pending
+source:
+  filename: research.md
+  sha256: 2705be91628353cfeaf56b02eb0db21149ffed68abe7d1b1d793640dcac82f9f
+  checked_at: '2026-11-21'
+  origin: original_research_written_in_this_run
+  url: null
+languages:
+  en:
+    file: publish-en.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-21T12:37:09+08:00'
+    platform: x
+    post_count: 3
+    body_sha256: 0abf244c2886c7d0a4c8182737420e0800507a06cc3506f9317411b03273aeca
+    published_at: null
+    published_url: null
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-21T12:37:09+08:00'
+    platform: x
+    post_count: 3
+    body_sha256: 3072e4bf1e4d3116d321438ac4baa6ab0f5eb38bcba84d00856abe1d006db53c
+    published_at: null
+    published_url: null
