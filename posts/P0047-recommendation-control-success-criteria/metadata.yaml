@@ -1,0 +1,43 @@
+schema_version: 1
+id: P0047
+legacy_id: P47
+slug: recommendation-control-success-criteria
+title_zh: 推荐控制：先定义纠正成功的条件
+title_en: 'Recommendation controls: What should still work after a correction?'
+date: '2026-11-23'
+timezone: Asia/Shanghai
+archived_at: '2026-11-23T12:32:57+08:00'
+theme:
+  id: recommendation-signals
+  title: 推荐系统如何判断一次行为是否应该影响未来推荐？
+  cycle_start: P0041
+  cycle_end: P0047
+content_type: synthesis
+review_status: pending
+source:
+  filename: research.md
+  sha256: 32868b90f784dacb7604abbd9619b695a30bcef09733715515093335bc66b074
+  checked_at: '2026-11-23'
+  origin: original_research_written_in_this_run
+  url: null
+languages:
+  en:
+    file: publish-en.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-23T12:32:57+08:00'
+    platform: x
+    post_count: 6
+    body_sha256: d5bf7ca4c7fc93eb175bf73072939672990ebd48cb975e934fa18d361930b097
+    published_at: null
+    published_url: null
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-23T12:32:57+08:00'
+    platform: x
+    post_count: 6
+    body_sha256: 6d141b0178c25300cdd540111a430bb2f37db70e58e6ef87e7ff1a8b28c2d0d9
+    published_at: null
+    published_url: null
