@@ -60,6 +60,7 @@
 | P0047 | 2026-11-23 | [推荐控制：先定义纠正成功的条件](posts/P0047-recommendation-control-success-criteria/README.md) | 推荐系统如何判断一次行为是否应该影响未来推荐？ | [草稿](posts/P0047-recommendation-control-success-criteria/publish-zh.md) | [草稿](posts/P0047-recommendation-control-success-criteria/publish-en.md) |
 | P0048 | 2026-11-24 | [OneDrive 释放空间：云端还在，离线还能打开吗？](posts/P0048-onedrive-free-space-offline-access/README.md) | 产品如何让用户分清本机副本、同步内容与独立备份？ | [草稿](posts/P0048-onedrive-free-space-offline-access/publish-zh.md) | [草稿](posts/P0048-onedrive-free-space-offline-access/publish-en.md) |
 | P0049 | 2026-11-25 | [Chrome 下载记录：列表清空后，文件还在吗？](posts/P0049-chrome-download-history-file-boundary/README.md) | 产品如何让用户分清本机副本、同步内容与独立备份？ | [草稿](posts/P0049-chrome-download-history-file-boundary/publish-zh.md) | [草稿](posts/P0049-chrome-download-history-file-boundary/publish-en.md) |
+| P0050 | 2026-11-26 | [Google Drive 快捷方式：共享位置与原件权限](posts/P0050-google-drive-shortcut-access/README.md) | 产品如何让用户分清本机副本、同步内容与独立备份？ | [草稿](posts/P0050-google-drive-shortcut-access/publish-zh.md) | [草稿](posts/P0050-google-drive-shortcut-access/publish-en.md) |
 <!-- ARCHIVE:END -->
 
 ## 研究周期
