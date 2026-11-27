@@ -1,0 +1,43 @@
+schema_version: 1
+id: P0051
+legacy_id: P51
+slug: icloud-photo-backup-coverage
+title_zh: iCloud Photos 与设备备份：成功备份覆盖了什么？
+title_en: 'iCloud Photos and device backups: What does success cover?'
+date: '2026-11-27'
+timezone: Asia/Shanghai
+archived_at: '2026-11-27T12:36:34+08:00'
+theme:
+  id: file-copies-and-sync
+  title: 产品如何让用户分清本机副本、同步内容与独立备份？
+  cycle_start: P0048
+  cycle_end: P0054
+content_type: full-analysis
+review_status: pending
+source:
+  filename: research.md
+  sha256: 2cef128f82a66ebbf2a1452663280d31dd69775360832e7303c05bcc0503b8e3
+  checked_at: '2026-11-27'
+  origin: original_research_written_in_this_run
+  url: null
+languages:
+  en:
+    file: publish-en.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-27T12:36:34+08:00'
+    platform: x
+    post_count: 5
+    body_sha256: 2e07bd26da09aa1349a061e772b998cf2515b39b8e5e5dd92157efdf42243124
+    published_at: null
+    published_url: null
+  zh:
+    file: publish-zh.md
+    status: draft
+    origin: independently_written_from_same_verified_research
+    prepared_at: '2026-11-27T12:36:34+08:00'
+    platform: x
+    post_count: 5
+    body_sha256: 6c108207c9749e7e982a8d33e66a7efd49322662d2efb066b71f83d15ad8f3ef
+    published_at: null
+    published_url: null
