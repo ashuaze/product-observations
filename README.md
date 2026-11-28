@@ -62,6 +62,7 @@
 | P0049 | 2026-11-25 | [Chrome 下载记录：列表清空后，文件还在吗？](posts/P0049-chrome-download-history-file-boundary/README.md) | 产品如何让用户分清本机副本、同步内容与独立备份？ | [草稿](posts/P0049-chrome-download-history-file-boundary/publish-zh.md) | [草稿](posts/P0049-chrome-download-history-file-boundary/publish-en.md) |
 | P0050 | 2026-11-26 | [Google Drive 快捷方式：共享位置与原件权限](posts/P0050-google-drive-shortcut-access/README.md) | 产品如何让用户分清本机副本、同步内容与独立备份？ | [草稿](posts/P0050-google-drive-shortcut-access/publish-zh.md) | [草稿](posts/P0050-google-drive-shortcut-access/publish-en.md) |
 | P0051 | 2026-11-27 | [iCloud Photos 与设备备份：成功备份覆盖了什么？](posts/P0051-icloud-photo-backup-coverage/README.md) | 产品如何让用户分清本机副本、同步内容与独立备份？ | [草稿](posts/P0051-icloud-photo-backup-coverage/publish-zh.md) | [草稿](posts/P0051-icloud-photo-backup-coverage/publish-en.md) |
+| P0052 | 2026-11-28 | [Notion 导出：内容带走后，工作流程能重建吗？](posts/P0052-notion-export-workflow-rebuild/README.md) | 产品如何让用户分清本机副本、同步内容与独立备份？ | [草稿](posts/P0052-notion-export-workflow-rebuild/publish-zh.md) | [草稿](posts/P0052-notion-export-workflow-rebuild/publish-en.md) |
 <!-- ARCHIVE:END -->
 
 ## 研究周期
